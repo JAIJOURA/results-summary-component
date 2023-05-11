@@ -145,7 +145,6 @@ color: hsl(234, 85%, 45%);
     }
    .one,.two{
     margin: auto;
-    padding: 10px;
    }
     .one{
         border-top-left-radius: unset;
