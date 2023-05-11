@@ -143,6 +143,10 @@ color: hsl(234, 85%, 45%);
         display: block;
     border-radius: unset;
     }
+   .one,.two{
+    margin: auto;
+    padding: 10px;
+   }
     .one{
         border-top-left-radius: unset;
         border-top-right-radius: unset;
